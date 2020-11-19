@@ -227,6 +227,7 @@ os.startfile(os.path.join(music_dir, songs[0]))
 * The sender: Email address of the sender.
 * The receiver:T Email of the receiver.
 * The message: A string message which needs to be sent to one or more than one recipient.
+
 ### Defining Send email function :
 * Now, we will create a sendEmail() function, which will help us to send emails to one or more than one recipients.
 ```
@@ -263,6 +264,7 @@ After wishme() function, we have created a takeCommand() function, which helps o
 * We developed the code logic for opening different websites like google, youtube, and stack overflow.
 Developed code logic for opening VS Code or any other application.
 * At last, we added functionality to send emails.
+
 ### Is it an A.I.?
 * A lot of people will argue that the virtual assistant that we have created is not an A.I, but it is the output of the bunch of the statement. But, if we look at the very basic level, the sole purpose of A.I is to develop machines that can perform human tasks with the same effectiveness or even more effectively than humans.
 
@@ -386,7 +388,8 @@ if __name__ == "__main__":
 # Thank you 
 ### Contact me via email:-
 * programminguniverse.0076@gmail.com
-### Follow me :-
+
+### Follow me on :-
 * <a href="https://twitter.com/PulkitS25464056"  targe="_blank" >Twitter</a>
 * <a href="www.github.com/pulkit0076"  targe="_blank" >Github</a>
 * <a href="https://www.youtube.com/channel/UCWvqpm9sTcjgXLkp5Ylro-A" targe="_blank" >YouTube</a>
