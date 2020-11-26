@@ -1,2 +1,2 @@
 # Chatbot_jarvis-from_python
-* Learn to create an small AI ba
+* Learn to create an small AI bas
