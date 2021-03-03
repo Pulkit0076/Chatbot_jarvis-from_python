@@ -388,25 +388,28 @@ if __name__ == "__main__":
 
 <h1>
   Connect With Me <a target="_blank">
-  <img src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Handshake.gif" height="32px" style="max-width:100%;">
+  <img src="Handshake.gif" height="32px" style="max-width:100%;">
   </a>
 </h1>
 
 <p align="center">
   <br>
   <a href="https://twitter.com/PulkitSinghDev" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/PulkitSinghDev/Chatbot_jarvis-from_python/blob/gh-pages/twitter.svg"/></code>
+         <code>Twitter</code>
   </a>
   <a href="https://dev.to/PulkitSinghDev">
-    <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Pulkit Singh's DEV Profile" height="62" width="62"></code>
+         <code>Dev Community</code>
   </a>
     <a href="https://github.com/PulkitSinghDev">
-    <code><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"></code>  
+           <code>Github</code>
   </a>
   <a href="https://discord.gg/Q7BTD58JKr">
     <code>
-      <img height="60" width="60" src="https://github.com/PulkitSinghDev/Chatbot_jarvis-from_python/blob/gh-pages/Discord-Logo-Black.png">
+      Discord
     </code>
   </a>
+  <a href="https://PulkitSinghDev.github.io">
+         <code>Website</code>
+       </a>
 </p>
 <img src="https://i.pinimg.com/originals/f8/89/1e/f8891ef65e086abc67e5b448acb8bc12.gif" align="center" width="100%" height="300px">
