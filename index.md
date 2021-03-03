@@ -391,8 +391,8 @@ if __name__ == "__main__":
   </a>
 </h3>
 
-<p align="center">
-       <ul>
+
+<ul>
   <br>
   <li><a href="https://twitter.com/PulkitSinghDev" target="_blank">
          <code>Twitter</code>
@@ -411,5 +411,5 @@ if __name__ == "__main__":
   <li><a href="https://PulkitSinghDev.github.io">
          <code>Website</code>
          </a></li>
-</p>
+</ul>
 <img src="https://i.pinimg.com/originals/f8/89/1e/f8891ef65e086abc67e5b448acb8bc12.gif" align="center" width="100%" height="300px">
