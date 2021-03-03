@@ -385,11 +385,28 @@ if __name__ == "__main__":
                 print(e)
                 speak("Sorry sir. I am not able to send this email")
 ```
-# Thank you 
-### Contact me via email:-
-* programminguniverse.0076@gmail.com
 
-### Follow me on :-
-* <a href="https://twitter.com/PulkitS25464056"  targe="_blank" >Twitter</a>
-* <a href="www.github.com/pulkit0076"  targe="_blank" >Github</a>
-* <a href="https://www.youtube.com/channel/UCWvqpm9sTcjgXLkp5Ylro-A" targe="_blank" >YouTube</a>
+<h1>
+  Connect With Me <a target="_blank">
+  <img src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Handshake.gif" height="32px" style="max-width:100%;">
+  </a>
+</h1>
+
+<p align="center">
+  <br>
+  <a href="https://twitter.com/PulkitSinghDev" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/twitter.svg"/></code>
+  </a>
+  <a href="https://dev.to/PulkitSinghDev">
+    <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Pulkit Singh's DEV Profile" height="62" width="62"></code>
+  </a>
+    <a href="https://github.com/PulkitSinghDev">
+    <code><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"></code>  
+  </a>
+  <a href="https://discord.gg/Q7BTD58JKr">
+    <code>
+      <img height="60" width="60" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Discord-Logo-Black.png">
+    </code>
+  </a>
+</p>
+<img src="https://i.pinimg.com/originals/f8/89/1e/f8891ef65e086abc67e5b448acb8bc12.gif" align="center" width="100%" height="300px">
