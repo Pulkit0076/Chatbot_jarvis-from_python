@@ -395,7 +395,7 @@ if __name__ == "__main__":
 <p align="center">
   <br>
   <a href="https://twitter.com/PulkitSinghDev" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/twitter.svg"/></code>
+    <code><img height="60" width="60" src="https://github.com/PulkitSinghDev/Chatbot_jarvis-from_python/blob/gh-pages/twitter.svg"/></code>
   </a>
   <a href="https://dev.to/PulkitSinghDev">
     <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Pulkit Singh's DEV Profile" height="62" width="62"></code>
@@ -405,7 +405,7 @@ if __name__ == "__main__":
   </a>
   <a href="https://discord.gg/Q7BTD58JKr">
     <code>
-      <img height="60" width="60" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Discord-Logo-Black.png">
+      <img height="60" width="60" src="https://github.com/PulkitSinghDev/Chatbot_jarvis-from_python/blob/gh-pages/Discord-Logo-Black.png">
     </code>
   </a>
 </p>
