@@ -386,30 +386,30 @@ if __name__ == "__main__":
                 speak("Sorry sir. I am not able to send this email")
 ```
 
-<h1>
-  Connect With Me <a target="_blank">
-  <img src="Handshake.gif" height="32px" style="max-width:100%;">
+<h3>
+  Connect With Me on:-<a target="_blank">
   </a>
-</h1>
+</h3>
 
 <p align="center">
+       <ul>
   <br>
-  <a href="https://twitter.com/PulkitSinghDev" target="_blank">
+  <li><a href="https://twitter.com/PulkitSinghDev" target="_blank">
          <code>Twitter</code>
-  </a>
-  <a href="https://dev.to/PulkitSinghDev">
+         </a></li>
+  <li><a href="https://dev.to/PulkitSinghDev">
          <code>Dev Community</code>
-  </a>
-    <a href="https://github.com/PulkitSinghDev">
+         </a></li>
+   <li> <a href="https://github.com/PulkitSinghDev">
            <code>Github</code>
-  </a>
-  <a href="https://discord.gg/Q7BTD58JKr">
+          </a></li>
+  <li><a href="https://discord.gg/Q7BTD58JKr">
     <code>
       Discord
     </code>
-  </a>
-  <a href="https://PulkitSinghDev.github.io">
+         </a></li>
+  <li><a href="https://PulkitSinghDev.github.io">
          <code>Website</code>
-       </a>
+         </a></li>
 </p>
 <img src="https://i.pinimg.com/originals/f8/89/1e/f8891ef65e086abc67e5b448acb8bc12.gif" align="center" width="100%" height="300px">
